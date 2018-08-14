@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scaling-octo-potato", "scaling-octo-potato\scaling-octo-potato.csproj", "{AE7B8E06-6873-4573-AB21-D824BDA58987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderTests", "OrderTests\OrderTests.csproj", "{57F20358-C5AB-42BD-934B-6E7CAAA5400A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7B8E06-6873-4573-AB21-D824BDA58987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7B8E06-6873-4573-AB21-D824BDA58987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7B8E06-6873-4573-AB21-D824BDA58987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7B8E06-6873-4573-AB21-D824BDA58987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F20358-C5AB-42BD-934B-6E7CAAA5400A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F20358-C5AB-42BD-934B-6E7CAAA5400A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F20358-C5AB-42BD-934B-6E7CAAA5400A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F20358-C5AB-42BD-934B-6E7CAAA5400A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A148CD3A-0C80-4F7D-9620-16FD7A00BCB2}
+	EndGlobalSection
+EndGlobal
